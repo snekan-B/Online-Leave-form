@@ -1,0 +1,10 @@
+# ONLINE-LEAVE-FORM
+I have developed an online leave form generation system utilizing React.js, MongoDB, and Node.js. After submission, the system automatically generates a leave form template based on the student's provided details. The template is then sent to the student's mentor for review. The counselor evaluates the request and provides either acceptance or rejection along with a reason if necessary. If approved, the mentor digitally signs the form before it moves on to the Head of Department (HOD).
+The HOD reviews the form, considering the student's details and the counselor's recommendation, and either approves or rejects the request. Upon approval, the HOD electronically signs the form, which is then forwarded to the Incharge for the final review. The Incharge examines the form, including the student's, counselor's, and HOD's inputs, and approves or rejects the request accordingly. In case of approval, the Incharge signs the form using a digital signature, and the system updates the admin database with the approved leave request details.
+This entire process ensures a transparent and accountable workflow, maintaining a comprehensive record of all leave requests and their respective approvals. It guarantees efficient processing of leave requests, requiring appropriate authorizations before granting students their requested leaves.
+# Output
+![Screenshot (190)](https://github.com/SAIIVARUN16/ONLINE-LEAVE-FORM/assets/112090025/2b5e7c2d-d7ce-492e-bb08-2f39234c8554)
+![WhatsApp Image 2023-05-27 at 10 51 25 PM](https://github.com/SAIIVARUN16/ONLINE-LEAVE-FORM/assets/112090025/318dcf88-b267-429a-b7b3-08f1ceda2431)
+![WhatsApp Image 2023-05-27 at 10 51 26 PM](https://github.com/SAIIVARUN16/ONLINE-LEAVE-FORM/assets/112090025/2ed3ec39-55a9-4496-8f0d-cfa48d60c764)
+![WhatsApp Image 2023-05-27 at 10 51 24 PM](https://github.com/SAIIVARUN16/ONLINE-LEAVE-FORM/assets/112090025/bda80ca0-401b-43b3-8f9a-30929dc94c5d)
+![Screenshot (191)](https://github.com/SAIIVARUN16/ONLINE-LEAVE-FORM/assets/112090025/3a9fd074-9457-48cb-9eeb-2305a7b1b65e)
